@@ -1,4 +1,4 @@
-Folder: /home/jesse/Desktop/python_projects/gps_nav_results/data/rosbag2_2025_12_17-08_33_06
+Folder: data/rosbag2_2025_12_17-08_33_06
 Bag: rosbag2_2025_12_17-08_33_06_0.db3
 Topic: /vehicle_pose
 Route points: 1984
