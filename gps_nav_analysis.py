@@ -231,6 +231,7 @@ def write_plot(folder: str, route: List[Tuple[float, float]], poses: List[Tuple[
     plt.legend()
 
     out_png = os.path.join(folder, "path_vs_trajectory.png")
+    plt.show()
     plt.savefig(out_png, dpi=200)
     plt.close()
     return out_png
